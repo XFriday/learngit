@@ -1,2 +1,2 @@
-git is a free software.
-I will learn how to use it.
+Git is a free software.
+I will learn how to use Git.
